@@ -38,3 +38,29 @@ Messaging: Signal
 
 ## Fediverse
 ![fediverse](https://i.ibb.co/7JXYx3Q/4XaAey1.jpg)
+To briefly explain Fediverse, I can describe it as running a service (for example, a social media service) on separate servers and keeping communication between these servers. In other words, a service run with distributed fediverse does not have a center. A service running on independent servers can run for nothing if one of these servers crashes. There is more than one advantage in fediverse.
+### Freedom
+![freedom](https://i.imgur.com/RP5UBwC.jpeg)
+Imagine you are using a centralized social network. At this time, the network owner may censor your posts or ban you from the entire network. In a distributed social network, even if you are banned from one server, you can switch to another server or open your own server and become fully independent. For this reason, Distributed social networks are completely uncensored and you can freely share what you want. Of course, all these actions must be within the framework of the law.
+
+### Security
+![security](https://i.imgur.com/Od7kEB9.jpg)
+I don't need to tell you that the existing social networks know you better than you do. In fact, these networks know information about you that you do not know. For example, Google knows where you've been in the last 10 years better than you do. Or maybe even your closest friend doesn't know what Facebook knows about you. This is truly terrible. Distributed social networks do not collect and keep unnecessary information about you.
+
+### Independentness
+![independentness](https://i.imgur.com/eaXvI6b.jpg)
+If you are using a central social network, you are connected to a server and if that server goes down, the entire social network will crash. Even the largest social networks have a chance of their servers crashing. As an example, we can show the collapse of Facebook in 2021. As a result of this event, billions of people could not access Facebook, Instagram and Whatsapp. But this is not the case in a distributed network. In case of a server crash, you can continue by switching to another server.
+
+#### Fediverse social network alernatives
+Twitter            => Mastadon, Pleroma, Misskey
+Facebook           => Diaspora
+Instagram          => Pixelfed
+Reddit             => Lemmy
+Discord, Whatsapp  => Matrix 
+Blogspot           => Write freely
+
+# Conclusion
+In this article, I tried to explain open source and distributed technologies to you. You can reach me at the addresses below and join our community.
+
+Mail: subhanqedirli@protonmail.com
+[Youtube](https://www.youtube.com/channel/UCCyrdKjOWMQFu4MpAuD9ajg) [Discord](https://discord.gg/jwR4sAYQ5n) [Matrix](https://matrix.to/#/!kSPvsnjXUJDMJszYek:matrix.org?via=matrix.org) [Telegram](https://t.me/LinuxisnotUNIXchannel) [Mastadon](https://mastodon.social/@subhanqedirli)
